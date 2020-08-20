@@ -1,0 +1,90 @@
+20/05/2020 10:55:12    initialisation du fichier de log
+20/05/2020 10:55:12    mSFTP.ImportDonneesSFTP    //// début fonction
+20/05/2020 10:55:12    mSFTP.ImportDonneesSFTP    avant appel ImportDesCapacites_v2
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    début fonction
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    nb de PITS : 5
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    avant appel SupprimerAnciensFichiers
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    après appel SupprimerAnciensFichiers
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    RepertoireCTO (rep CTO sur le serveur SFTP) : /IN/PUB/CTC_PITS/
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    RepertoireCTE (rep CTE sur le serveur SFTP) : /IN/PUB/TIGF_CAP_TECH/
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    ---------------- itération # 0/2
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    RepertoireCTOetDate : /IN/PUB/CTC_PITS/20200511
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    RepertoireCTEetDate : /IN/PUB/TIGF_CAP_TECH/20200511
+20/05/2020 10:55:12    mSFTP.ImportDesCapacites_v2    avant appel SFTP_AVEC_Objet__Import_Capacites  pour CTO
+20/05/2020 10:55:12    mSFTP.SFTP_AVEC_Objet__Import_Capacites    début fonction
+20/05/2020 10:55:12    mSFTP.SFTP_AVEC_Objet__Import_Capacites    avant appel TransfererFichier
+20/05/2020 10:55:12    mSFTP.TransfererFichier    début fonction
+20/05/2020 10:55:12    mSFTP.SFTP_AVEC_Objet__Import_Capacites    après appel TransfererFichier
+20/05/2020 10:55:12    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Code_Retour : 1
+20/05/2020 10:55:12    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Libelle_Retour : Le répertoire Cloud n'est pas trouvé
+
+C:\Users\5466IU\Desktop\build_callisto_transfert
+20/05/2020 10:55:12    mSFTP.SFTP_AVEC_Objet__Import_Capacites    fin fonction
+20/05/2020 10:55:13    mSFTP.ImportDesCapacites_v2    après appel SFTP_AVEC_Objet__Import_Capacites  pour CTO
+20/05/2020 10:55:13    mSFTP.ImportDesCapacites_v2    avant appel SFTP_AVEC_Objet__Import_Capacites  pour CTE
+20/05/2020 10:55:13    mSFTP.SFTP_AVEC_Objet__Import_Capacites    début fonction
+20/05/2020 10:55:13    mSFTP.SFTP_AVEC_Objet__Import_Capacites    avant appel TransfererFichier
+20/05/2020 10:55:13    mSFTP.TransfererFichier    début fonction
+20/05/2020 10:55:13    mSFTP.SFTP_AVEC_Objet__Import_Capacites    après appel TransfererFichier
+20/05/2020 10:55:13    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Code_Retour : 1
+20/05/2020 10:55:13    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Libelle_Retour : Le répertoire Cloud n'est pas trouvé
+
+C:\Users\5466IU\Desktop\build_callisto_transfert
+20/05/2020 10:55:13    mSFTP.SFTP_AVEC_Objet__Import_Capacites    fin fonction
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    après appel SFTP_AVEC_Objet__Import_Capacites  pour CTE
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    ---------------- itération # 1/2
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    RepertoireCTOetDate : /IN/PUB/CTC_PITS/20200512
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    RepertoireCTEetDate : /IN/PUB/TIGF_CAP_TECH/20200512
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    avant appel SFTP_AVEC_Objet__Import_Capacites  pour CTO
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    début fonction
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    avant appel TransfererFichier
+20/05/2020 10:55:14    mSFTP.TransfererFichier    début fonction
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    après appel TransfererFichier
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Code_Retour : 1
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Libelle_Retour : Le répertoire Cloud n'est pas trouvé
+
+C:\Users\5466IU\Desktop\build_callisto_transfert
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    fin fonction
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    après appel SFTP_AVEC_Objet__Import_Capacites  pour CTO
+20/05/2020 10:55:14    mSFTP.ImportDesCapacites_v2    avant appel SFTP_AVEC_Objet__Import_Capacites  pour CTE
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    début fonction
+20/05/2020 10:55:14    mSFTP.SFTP_AVEC_Objet__Import_Capacites    avant appel TransfererFichier
+20/05/2020 10:55:15    mSFTP.TransfererFichier    début fonction
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    après appel TransfererFichier
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Code_Retour : 1
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Libelle_Retour : Le répertoire Cloud n'est pas trouvé
+
+C:\Users\5466IU\Desktop\build_callisto_transfert
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    fin fonction
+20/05/2020 10:55:15    mSFTP.ImportDesCapacites_v2    après appel SFTP_AVEC_Objet__Import_Capacites  pour CTE
+20/05/2020 10:55:15    mSFTP.ImportDesCapacites_v2    
+20/05/2020 10:55:15    mSFTP.ImportDesCapacites_v2    ---------------- itération # 2/2
+20/05/2020 10:55:15    mSFTP.ImportDesCapacites_v2    RepertoireCTOetDate : /IN/PUB/CTC_PITS/20200513
+20/05/2020 10:55:15    mSFTP.ImportDesCapacites_v2    RepertoireCTEetDate : /IN/PUB/TIGF_CAP_TECH/20200513
+20/05/2020 10:55:15    mSFTP.ImportDesCapacites_v2    avant appel SFTP_AVEC_Objet__Import_Capacites  pour CTO
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    début fonction
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    avant appel TransfererFichier
+20/05/2020 10:55:15    mSFTP.TransfererFichier    début fonction
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    après appel TransfererFichier
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Code_Retour : 1
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Libelle_Retour : Le répertoire Cloud n'est pas trouvé
+
+C:\Users\5466IU\Desktop\build_callisto_transfert
+20/05/2020 10:55:15    mSFTP.SFTP_AVEC_Objet__Import_Capacites    fin fonction
+20/05/2020 10:55:16    mSFTP.ImportDesCapacites_v2    après appel SFTP_AVEC_Objet__Import_Capacites  pour CTO
+20/05/2020 10:55:16    mSFTP.ImportDesCapacites_v2    avant appel SFTP_AVEC_Objet__Import_Capacites  pour CTE
+20/05/2020 10:55:16    mSFTP.SFTP_AVEC_Objet__Import_Capacites    début fonction
+20/05/2020 10:55:16    mSFTP.SFTP_AVEC_Objet__Import_Capacites    avant appel TransfererFichier
+20/05/2020 10:55:16    mSFTP.TransfererFichier    début fonction
+20/05/2020 10:55:16    mSFTP.SFTP_AVEC_Objet__Import_Capacites    après appel TransfererFichier
+20/05/2020 10:55:16    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Code_Retour : 1
+20/05/2020 10:55:16    mSFTP.SFTP_AVEC_Objet__Import_Capacites    Libelle_Retour : Le répertoire Cloud n'est pas trouvé
+
+C:\Users\5466IU\Desktop\build_callisto_transfert
+20/05/2020 10:55:16    mSFTP.SFTP_AVEC_Objet__Import_Capacites    fin fonction
+20/05/2020 10:55:16    mSFTP.ImportDesCapacites_v2    après appel SFTP_AVEC_Objet__Import_Capacites  pour CTE
+20/05/2020 10:55:16    mSFTP.ImportDesCapacites_v2    fin fonction
+20/05/2020 10:55:16    mSFTP.ImportDonneesSFTP    avant appel LireFichiers
+20/05/2020 10:55:24    mSFTP.ImportDonneesSFTP    //// fin fonction
